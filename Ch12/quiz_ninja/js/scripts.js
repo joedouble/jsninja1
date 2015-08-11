@@ -39,7 +39,7 @@
   }
 
   // Event listeners
-  $start.addEventListener('click', function() { new Game(test) } , false);
+  $start.addEventListener('click', function() { new Game(quiz) } , false);
 
   // hide the form at the start of the game
   hide($form);
